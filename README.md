@@ -69,5 +69,5 @@ cp .env.example .env # Add your GROQ_API_KEY
 **Terminal 2 (Extension API):** `uvicorn api.main:app --reload`
 
 ---
-**Author:** Rasika Shrikant Nilatkant  
+**Author:** Rasika Shrikant Nilatkar  
 **Course:** DATS 6501 Capstone | The George Washington University
